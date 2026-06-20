@@ -1,4 +1,4 @@
-# 🗳️ System Architecture: Secure Online Voting Platform
+# 🗳️ System Architecture: Online Voting Platform
 
 > **Note:** This repository serves as an architectural case study and system design document. The proprietary application source code (React/Django) remains private. 
 
